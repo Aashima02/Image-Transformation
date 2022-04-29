@@ -114,32 +114,32 @@ plt.show()
 ```
 ## OUTPUT:
 ### Original Image: 
-![output](./ori.png)
+![ori](https://user-images.githubusercontent.com/93427086/165988186-c3d11058-2c17-48c7-8925-bd2de2439271.png)
 <br>
 
 ### i)Image Translation:
-![output](./translation.png)
+![translation](https://user-images.githubusercontent.com/93427086/165988202-f0ded418-8939-4484-a32d-f81a8dab4c0f.png)
 <br>
 
 ### ii) Image Scaling:
-![output](./scaling.png)
+![scaling](https://user-images.githubusercontent.com/93427086/165988219-586780ca-e2a3-4006-be9f-3d2d7f8d6df2.png)
 <br>
 
 ### iii)Image shearing:
-![output](./shearing.png)
+![shearing](https://user-images.githubusercontent.com/93427086/165988235-7f00eff1-9655-40b8-aab6-9dcf6501a890.png)
 <br>
 
 
 ### iv)Image Reflection:
-![output](./reflection.png)
+![reflection](https://user-images.githubusercontent.com/93427086/165988261-7149212d-d11f-453a-b90c-b1f38d9bd7c7.png)
 <br>
 
 ### v)Image Rotation:
-![output](./rotation.png)
+![rotation](https://user-images.githubusercontent.com/93427086/165988286-62aa933f-995a-472b-9346-0c21eb007b8f.png)
 <br>
 
 ### vi)Image Cropping
-![output](./cropping.png)
+![cropping](https://user-images.githubusercontent.com/93427086/165988299-49874069-825c-4032-ab97-4bcdea922d04.png)
 <br>
 
 
